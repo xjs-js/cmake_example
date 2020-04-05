@@ -1,3 +1,5 @@
 # cmake_example
 
-cmake_example
+```bash
+cmake -G "Visual Studio 15 2017 Win64" ..
+```
